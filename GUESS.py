@@ -30,3 +30,4 @@ def computer_guess(x):
     print('Yay !! the computer guessed your number correctly ')
 
 computer_guess(200)
+guess(50)
